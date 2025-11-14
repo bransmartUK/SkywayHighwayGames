@@ -18,7 +18,8 @@ const config = {
     	}),
 		paths: {
 			base: ''
-		}
+		},
+		appDir: 'app'
 	}
 };
 
